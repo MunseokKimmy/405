@@ -5537,7 +5537,12 @@ button.close {
 		margin-bottom: 60px
 	}
 }
-
+.introducing {
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+	object-fit: cover;
+}
 .navbar-brand>.navbar-logo-img {
 	display: inline-block;
 	margin-top: -2rem;
